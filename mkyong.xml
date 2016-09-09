@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Doc>
+	<BizDate>06 September 2016</BizDate>
+	<BizTime>16:28:25</BizTime>
+	<myBankID>10740</myBankID>
+	<nextSess>07 Sep 2016 09:45:00</nextSess>
+	<nextSettleKHR>0</nextSettleKHR>
+	<nextSettleUSD>0</nextSettleUSD>
+	<settleKHR>1289720440</settleKHR>
+	<settleUSD>2692617.57</settleUSD>
+	<curAccKHR>
+		<Brnch>
+			<Nb>001</Nb>
+			<Acc>001-000000001509</Acc>
+			<Bal>2159041173</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>004</Nb>
+			<Acc>004-000000002303</Acc>
+			<Bal>572116</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>014</Nb>
+			<Acc>014-000000002420</Acc>
+			<Bal>4780760</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>006</Nb>
+			<Acc>006-000000002007</Acc>
+			<Bal>2756000</Bal>
+		</Brnch>
+	</curAccKHR>
+	<totalKHR>2167150049</totalKHR>
+	<curAccUSD>
+		<Brnch>
+			<Nb>004</Nb>
+			<Acc>004-000000002351</Acc>
+			<Bal>1962440.16</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>001</Nb>
+			<Acc>001-000000001409</Acc>
+			<Bal>9251751.42</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>014</Nb>
+			<Acc>014-000000002429</Acc>
+			<Bal>2817313.64</Bal>
+		</Brnch>
+		<Brnch>
+			<Nb>006</Nb>
+			<Acc>006-000000002069</Acc>
+			<Bal>1854184.9</Bal>
+		</Brnch>
+	</curAccUSD>
+	<totalUSD>15885690.12</totalUSD>
+</Doc>
