@@ -56,7 +56,7 @@ public class Apps {
 					System.out.println("BizDate : "+ eElement.getElementsByTagName("BizDate").item(0).getTextContent());
 					System.out.println("BizDate : "+ eElement.getElementsByTagName("BizTime").item(0).getTextContent());
 					System.out.println("Settlement Balanc USD : " + eElement.getElementsByTagName("settleUSD").item(0).getTextContent());
-					
+					//
 					
 				}
 			}
